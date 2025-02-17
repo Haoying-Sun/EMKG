@@ -1,2 +1,2 @@
 # EMKG
-EMKG: An Effective Multimodal Knowledge Graph Framework for Video Captioning
+EMKG: An Effective Multi-modal Knowledge Graph Framework for Video Captioning
